@@ -67,21 +67,26 @@ dt.predict([[0.5,0.8,9,260, 6,0,1,2]])
 ```
 
 ## Output:
-![alt text](Image-1.png)
+![image](https://github.com/user-attachments/assets/0179761c-3914-4970-976e-057ebc197792)
 
-![alt text](Image-2.png)
 
-![alt text](Image-3.png)
+![image](https://github.com/user-attachments/assets/29bc0242-d22e-4240-ba18-6cf62c705c99)
 
-![alt text](Image-4.png)
 
-![alt text](Image-5.png)
+![image](https://github.com/user-attachments/assets/aec366fa-6b9c-4d42-a729-75bd357dac91)
 
-![alt text](Image-6.png)
 
-![alt text](Image-7.png)
+![image](https://github.com/user-attachments/assets/78309b36-7a1e-409b-9420-2b876f932f1e)
 
-![alt text](Image-8.png)
+![image](https://github.com/user-attachments/assets/35aadfdb-9d11-40a2-bed8-4bf3cf319219)
+
+
+![image](https://github.com/user-attachments/assets/f056ae6c-d62f-4dd9-96b0-c935cf9cd265)
+
+![image](https://github.com/user-attachments/assets/61d5bf98-7b35-4219-88a5-a730128c2c23)
+
+
+![image](https://github.com/user-attachments/assets/bd4a74e9-1321-4b7c-b980-4177e2da85d8)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
